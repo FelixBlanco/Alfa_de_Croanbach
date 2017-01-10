@@ -5,3 +5,5 @@ En psicometría, el Alfa de Cronbach es un coeficiente que sirve para medir la f
 ##Proposito de desarrollador
 
 Mi madre me pidio ayuda y la mejor solucion fue desarrollar todo un algoritmo y desarrolle en PHP. 
+
+pueden visitar felixblanco.com.ve/Croanbach/ y hacer las pruebas que necesiten.
